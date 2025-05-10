@@ -25,7 +25,6 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/user-attachments/assets/c7a92f55-4a92-485a-8c6a-d6565876d639)
 ![image](https://github.com/user-attachments/assets/c2c91eca-7ab0-4a00-ac9e-9418c66edd81)
 ![image](https://github.com/user-attachments/assets/7d4770be-5697-49fc-86b5-0222d5491438)
-![image](https://github.com/user-attachments/assets/acbe9771-4922-4789-afdc-582c963d2d98)
 ![image](https://github.com/user-attachments/assets/c12f1e57-59e8-4be8-81cb-ab5f5d782229)
 ![image](https://github.com/user-attachments/assets/07dbb97a-8ea7-4b5f-991a-c4ddf7b3d626)
 ![image](https://github.com/user-attachments/assets/d5c1505d-ea66-4383-8b90-4f9231869408)
